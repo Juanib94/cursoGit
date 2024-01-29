@@ -1,1 +1,3 @@
 "hola"
+"este es un archivo txt de prueba"
+"para probar pull en GIT"
